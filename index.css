@@ -1,0 +1,11 @@
+#circle {
+  fill: blue;
+}
+
+#button2 {
+  height: 100px;
+}
+
+.flex-container {
+  display: flex;
+}
